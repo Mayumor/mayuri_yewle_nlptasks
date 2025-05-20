@@ -1,1 +1,2 @@
-# mayuri_yewle_nlptasks
+A Simple RNN is a type of neural network designed for sequential data, where the output depends not only on the current input but also on previous inputs. It’s useful for tasks like text classification, sentiment analysis, and next-word prediction. In Keras, it’s implemented using an Embedding layer (to convert words to vectors), followed by a SimpleRNN layer (to capture sequence patterns), and a Dense layer (for classification).
+How the code run :- According to the layout, I have deployed the code in google colab step by step.
